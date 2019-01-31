@@ -1,4 +1,5 @@
 #springcloud-config-profile
+#fork from https://git.coding.net/yirenyishi/springcloud-config-profile.git
 
 springcloud-config-server-profile springcloud远程拉取的配置文件
 
